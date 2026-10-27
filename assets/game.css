@@ -1,0 +1,3 @@
+.css-grid {
+	grid-template-columns: 10rem repeat(7, 1fr);
+}
